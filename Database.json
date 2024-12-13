@@ -1,5 +1,4 @@
 [
 { "username": "admin", "password": "admin123", "ip": "152.42.202.230" },
 { "username": "user1", "password": "password1", "ip": "234.234.234.234" }
-{ "username": "kazxy",  "password": "kaz123", "ip": "174.138.25.7" }
 ]
